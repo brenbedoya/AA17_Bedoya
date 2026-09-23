@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Yerba mate tradicional 1 kg",
+      "categoria": "Yerbas",
+      "precio": 6900,
+      "descripcion": "Molienda media, con palo. Sabor equilibrado para el mate de todos los días.",
+      "stock": 25,
+      "emoji": "🌿"
+    },
+    {
+      "id": 2,
+      "nombre": "Yerba mate con hierbas 500 g",
+      "categoria": "Yerbas",
+      "precio": 4200,
+      "descripcion": "Mezcla con menta y peperina, ideal para tomar a la tarde.",
+      "stock": 12,
+      "emoji": "🍃"
+    },
+    {
+      "id": 3,
+      "nombre": "Mate de calabaza curado",
+      "categoria": "Mates",
+      "precio": 8500,
+      "descripcion": "Calabaza natural con virola de acero. Viene curado y listo para usar.",
+      "stock": 8,
+      "emoji": "🧉"
+    },
+    {
+      "id": 4,
+      "nombre": "Bombilla de acero inoxidable",
+      "categoria": "Accesorios",
+      "precio": 3100,
+      "descripcion": "Filtro resistente, fácil de limpiar y apta para uso diario.",
+      "stock": 40,
+      "emoji": "🥄"
+    },
+    {
+      "id": 5,
+      "nombre": "Termo de acero 1 litro",
+      "categoria": "Accesorios",
+      "precio": 24500,
+      "descripcion": "Doble pared. Mantiene el agua caliente hasta 24 horas.",
+      "stock": 0,
+      "emoji": "🫖"
+    },
+    {
+      "id": 6,
+      "nombre": "Set matero completo",
+      "categoria": "Sets",
+      "precio": 39900,
+      "descripcion": "Mate, bombilla, termo, yerbera y azucarera en un bolso de tela.",
+      "stock": 5,
+      "emoji": "🎁"
+    }
+  ]
+}
